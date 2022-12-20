@@ -16,3 +16,15 @@ List of packages developed with focus on natural language processing.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
+
+## Julia
+
+- [CorpusLoaders](https://github.com/JuliaText/CorpusLoaders.jl) - A variety of loaders for various NLP corpora.
+- [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings (Word2Vec, FastText, GLoVE).
+- [Languages](https://github.com/JuliaText/Languages.jl) - A package for working with human languages.
+- [Snowball](https://github.com/JuliaText/Snowball.jl) - Snowball stemming algorithms.
+- [TextAnalysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
+- [TextModels](https://github.com/JuliaText/TextModels.jl) - Neural Network based models for Natural Language Processing.
+- [WordNet](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet.
+- [WordTokenizers](https://github.com/JuliaText/WordTokenizers.jl) - High performance tokenizers for natural language processing and other related tasks.
+- [Word2Vec](https://github.com/JuliaText/Word2Vec.jl) - Julia interface to word2vec.
