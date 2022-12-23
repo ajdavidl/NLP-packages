@@ -27,6 +27,15 @@ List of packages developed with focus on natural language processing.
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
 - [wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages. 
 
+## R
+
+- [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
+- [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
+- [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
+- [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
+- [udpipe](https://github.com/bnosac/udpipe) - package for Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing Based on the UDPipe Natural Language Processing Toolkit [[cran](https://cran.r-project.org/web/packages/udpipe/index.html)], [[site](https://bnosac.github.io/udpipe/en/index.html)].
+- [wordnet](https://cran.r-project.org/web/packages/wordnet/index.html) - WordNet Interface.
+
 ## Julia
 
 - [CorpusLoaders](https://github.com/JuliaText/CorpusLoaders.jl) - A variety of loaders for various NLP corpora.
