@@ -5,6 +5,7 @@ List of packages developed with focus on natural language processing.
 
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2 [[site](https://docs.aitextgen.io/)]. 
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch [[site](https://allenai.org/allennlp)]. 
+- [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP).
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
@@ -21,6 +22,7 @@ List of packages developed with focus on natural language processing.
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [[site](https://textacy.readthedocs.io/en/latest/)].
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
+- [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
@@ -44,6 +46,7 @@ List of packages developed with focus on natural language processing.
 - [Snowball](https://github.com/JuliaText/Snowball.jl) - Snowball stemming algorithms.
 - [TextAnalysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
 - [TextModels](https://github.com/JuliaText/TextModels.jl) - Neural Network based models for Natural Language Processing.
+- [WordLists](https://github.com/LilithHafner/WordLists.jl) - Dictionaries without definitions.
 - [WordNet](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet.
 - [WordTokenizers](https://github.com/JuliaText/WordTokenizers.jl) - High performance tokenizers for natural language processing and other related tasks.
 - [Word2Vec](https://github.com/JuliaText/Word2Vec.jl) - Julia interface to word2vec.
