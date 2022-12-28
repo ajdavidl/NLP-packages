@@ -9,6 +9,7 @@ List of packages developed with focus on natural language processing.
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models [[site](https://ecco.readthedocs.io/en/main/)]. 
 - [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP).
+- [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences. 
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
@@ -18,6 +19,7 @@ List of packages developed with focus on natural language processing.
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit [[site](https://polyglot.readthedocs.io/en/latest/)].
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
+- [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
@@ -26,11 +28,13 @@ List of packages developed with focus on natural language processing.
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
 - [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
 - [TextFeatureSelection](https://github.com/StatguyUser/TextFeatureSelection) - library for feature selection for text features.
+- [textplot](https://github.com/davidmcclure/textplot) - maps of texts with kernel density estimation and force-directed networks. 
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
 - [wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages. 
+- [wordseer](https://github.com/Wordseer/wordseer) - text analysis tool, written in Flask [[site](https://wordseer.berkeley.edu/)].
 
 ## R
 
