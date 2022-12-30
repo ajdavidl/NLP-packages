@@ -38,8 +38,11 @@ List of packages developed with focus on natural language processing.
 
 ## R
 
+- [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
+- [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
+- [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
 - [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)]
 - [stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU) [[cran](https://cran.r-project.org/web/packages/stringi/index.html)], [[site](https://stringi.gagolewski.com/)]
@@ -48,7 +51,9 @@ List of packages developed with focus on natural language processing.
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
 - [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
 - [udpipe](https://github.com/bnosac/udpipe) - package for Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing Based on the UDPipe Natural Language Processing Toolkit [[cran](https://cran.r-project.org/web/packages/udpipe/index.html)], [[site](https://bnosac.github.io/udpipe/en/index.html)].
+- [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html) - Functionality to create pretty word clouds, visualize differences and similarity between documents, and avoid over-plotting in scatter plots with text.
 - [wordnet](https://cran.r-project.org/web/packages/wordnet/index.html) - WordNet Interface.
+- [zipfR](https://cran.r-project.org/web/packages/zipfR/index.html) - Statistical Models for Word Frequency Distributions.
 
 ## Julia
 
