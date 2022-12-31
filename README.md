@@ -12,6 +12,7 @@ List of packages developed with focus on natural language processing.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences. 
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
+- [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
@@ -47,6 +48,7 @@ List of packages developed with focus on natural language processing.
 - [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)]
 - [stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU) [[cran](https://cran.r-project.org/web/packages/stringi/index.html)], [[site](https://stringi.gagolewski.com/)]
 - [tau](https://cran.r-project.org/web/packages/tau/index.html) - Text Analysis Utilities.
+- [textplot](https://github.com/bnosac/textplot) - unctionalities to easily visualise complex relations in texts [[cran](https://cran.r-project.org/web/packages/textplot/index.html)].
 - [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity [[cran](https://cran.r-project.org/web/packages/textreuse/index.html)], [[site](https://docs.ropensci.org/textreuse/)]
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
 - [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
@@ -61,6 +63,7 @@ List of packages developed with focus on natural language processing.
 - [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings (Word2Vec, FastText, GLoVE).
 - [Languages](https://github.com/JuliaText/Languages.jl) - A package for working with human languages.
 - [Snowball](https://github.com/JuliaText/Snowball.jl) - Snowball stemming algorithms.
+- [StringAnalysis](https://github.com/zgornel/StringAnalysis.jl) - Hard-Forked from JuliaText/TextAnalysis.jl.
 - [TextAnalysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
 - [TextModels](https://github.com/JuliaText/TextModels.jl) - Neural Network based models for Natural Language Processing.
 - [WordLists](https://github.com/LilithHafner/WordLists.jl) - Dictionaries without definitions.
