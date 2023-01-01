@@ -13,6 +13,8 @@ List of packages developed with focus on natural language processing.
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
+- [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
+- [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
@@ -22,6 +24,7 @@ List of packages developed with focus on natural language processing.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
+- [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
