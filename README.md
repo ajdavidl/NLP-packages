@@ -7,10 +7,12 @@ List of packages developed with focus on natural language processing.
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch [[site](https://allenai.org/allennlp)]. 
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
+- [dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers.
 - [ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models [[site](https://ecco.readthedocs.io/en/main/)]. 
 - [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP).
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences. 
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
+- [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
@@ -18,6 +20,7 @@ List of packages developed with focus on natural language processing.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
+- [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines. 
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. [[wiki](https://github.com/clips/pattern/wiki)].
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit [[site](https://polyglot.readthedocs.io/en/latest/)].
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
@@ -34,6 +37,7 @@ List of packages developed with focus on natural language processing.
 - [TextFeatureSelection](https://github.com/StatguyUser/TextFeatureSelection) - library for feature selection for text features.
 - [textplot](https://github.com/davidmcclure/textplot) - maps of texts with kernel density estimation and force-directed networks. 
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
+- [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
