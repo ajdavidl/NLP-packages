@@ -46,8 +46,11 @@ List of packages developed with focus on natural language processing.
 
 ## R
 
+- [BTM](https://github.com/bnosac/BTM) - Biterm Topic Models for Short Text [[cran](https://cran.r-project.org/web/packages/BTM/index.html)].
 - [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
 - [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
+- [languageR](https://cran.r-project.org/web/packages/languageR/index.html) - Analyzing Linguistic Data.
+- [lsa](https://cran.r-project.org/web/packages/lsa/index.html) - Latent Semantic Analysis.
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
@@ -58,11 +61,13 @@ List of packages developed with focus on natural language processing.
 - [textplot](https://github.com/bnosac/textplot) - unctionalities to easily visualise complex relations in texts [[cran](https://cran.r-project.org/web/packages/textplot/index.html)].
 - [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity [[cran](https://cran.r-project.org/web/packages/textreuse/index.html)], [[site](https://docs.ropensci.org/textreuse/)]
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
+- [tokenizers](https://github.com/ropensci/tokenizers) - Fast, Consistent Tokenization of Natural Language Text [[cran](https://cran.r-project.org/web/packages/tokenizers/index.html)], [[site](https://docs.ropensci.org/tokenizers/)].
+- [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Latent Dirichlet Allocation (LDA) models and Correlated Topics Models (CTM).
 - [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
 - [udpipe](https://github.com/bnosac/udpipe) - package for Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing Based on the UDPipe Natural Language Processing Toolkit [[cran](https://cran.r-project.org/web/packages/udpipe/index.html)], [[site](https://bnosac.github.io/udpipe/en/index.html)].
 - [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html) - Functionality to create pretty word clouds, visualize differences and similarity between documents, and avoid over-plotting in scatter plots with text.
 - [wordnet](https://cran.r-project.org/web/packages/wordnet/index.html) - WordNet Interface.
-- [zipfR](https://cran.r-project.org/web/packages/zipfR/index.html) - Statistical Models for Word Frequency Distributions.
+- [zipfR](https://cran.r-project.org/web/packages/zipfR/index.html) - Statistical Models for Word Frequency Distributions [[site](https://zipfr.r-forge.r-project.org/)].
 
 ## Julia
 
