@@ -14,6 +14,8 @@ List of packages developed with focus on natural language processing.
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
 - [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
+- [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
+- [interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
@@ -25,12 +27,14 @@ List of packages developed with focus on natural language processing.
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit [[site](https://polyglot.readthedocs.io/en/latest/)].
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
+- [pywsd](https://github.com/alvations/pywsd) - Implementations of Word Sense Disambiguation (WSD) Technologies. 
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
+- [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications [[site](https://neuml.github.io/txtai/)].
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [[site](https://textacy.readthedocs.io/en/latest/)].
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
 - [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
