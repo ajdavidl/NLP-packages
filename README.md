@@ -86,3 +86,10 @@ List of packages developed with focus on natural language processing.
 - [WordNet](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet.
 - [WordTokenizers](https://github.com/JuliaText/WordTokenizers.jl) - High performance tokenizers for natural language processing and other related tasks.
 - [Word2Vec](https://github.com/JuliaText/Word2Vec.jl) - Julia interface to word2vec.
+
+## JavaScript
+
+- [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing [[site](https://compromise.cool/)].
+- [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node.
+- [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+- [wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more [[site](https://winkjs.org/wink-nlp-utils/)]. 
