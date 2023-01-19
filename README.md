@@ -54,18 +54,21 @@ List of packages developed with focus on natural language processing.
 - [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
 - [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
 - [languageR](https://cran.r-project.org/web/packages/languageR/index.html) - Analyzing Linguistic Data.
+- [lda](https://cran.r-project.org/web/packages/lda/index.html) - Collapsed Gibbs Sampling Methods for Topic Models.
 - [lsa](https://cran.r-project.org/web/packages/lsa/index.html) - Latent Semantic Analysis.
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
-- [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)]
-- [stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU) [[cran](https://cran.r-project.org/web/packages/stringi/index.html)], [[site](https://stringi.gagolewski.com/)]
+- [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)].
+- [stm](https://github.com/bstewart/stm) - Estimation of the Structural Topic Model [[cran](https://cran.r-project.org/web/packages/stm/index.html)], [[site](http://www.structuraltopicmodel.com/)].
+- [stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU) [[cran](https://cran.r-project.org/web/packages/stringi/index.html)], [[site](https://stringi.gagolewski.com/)].
 - [tau](https://cran.r-project.org/web/packages/tau/index.html) - Text Analysis Utilities.
 - [textplot](https://github.com/bnosac/textplot) - unctionalities to easily visualise complex relations in texts [[cran](https://cran.r-project.org/web/packages/textplot/index.html)].
-- [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity [[cran](https://cran.r-project.org/web/packages/textreuse/index.html)], [[site](https://docs.ropensci.org/textreuse/)]
+- [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity [[cran](https://cran.r-project.org/web/packages/textreuse/index.html)], [[site](https://docs.ropensci.org/textreuse/)].
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
 - [tokenizers](https://github.com/ropensci/tokenizers) - Fast, Consistent Tokenization of Natural Language Text [[cran](https://cran.r-project.org/web/packages/tokenizers/index.html)], [[site](https://docs.ropensci.org/tokenizers/)].
+- [topicdoc](https://github.com/doug-friedman/topicdoc) - Topic-Specific Diagnostics for LDA and CTM Topic Models [[cran](https://cran.r-project.org/web/packages/topicdoc/index.html)], [[site](https://doug-friedman.github.io/topicdoc/)].
 - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Latent Dirichlet Allocation (LDA) models and Correlated Topics Models (CTM).
 - [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
 - [udpipe](https://github.com/bnosac/udpipe) - package for Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing Based on the UDPipe Natural Language Processing Toolkit [[cran](https://cran.r-project.org/web/packages/udpipe/index.html)], [[site](https://bnosac.github.io/udpipe/en/index.html)].
