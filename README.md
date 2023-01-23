@@ -51,11 +51,13 @@ List of packages developed with focus on natural language processing.
 ## R
 
 - [BTM](https://github.com/bnosac/BTM) - Biterm Topic Models for Short Text [[cran](https://cran.r-project.org/web/packages/BTM/index.html)].
+- [cleanNLP](https://github.com/statsmaths/cleanNLP) - Package providing annotators and a normalized data model for natural language processing [[cran](https://cran.r-project.org/web/packages/cleanNLP/index.html)].
 - [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
 - [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
 - [languageR](https://cran.r-project.org/web/packages/languageR/index.html) - Analyzing Linguistic Data.
 - [lda](https://cran.r-project.org/web/packages/lda/index.html) - Collapsed Gibbs Sampling Methods for Topic Models.
 - [lsa](https://cran.r-project.org/web/packages/lsa/index.html) - Latent Semantic Analysis.
+- [NLP](https://cran.r-project.org/web/packages/NLP/index.html) - Basic classes and methods for Natural Language Processing.
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
