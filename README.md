@@ -28,6 +28,7 @@ List of packages developed with focus on natural language processing.
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
 - [pywsd](https://github.com/alvations/pywsd) - Implementations of Word Sense Disambiguation (WSD) Technologies. 
+- [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations [[site](https://rasa.com/docs/rasa/)].
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
@@ -39,6 +40,7 @@ List of packages developed with focus on natural language processing.
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
 - [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
 - [TextFeatureSelection](https://github.com/StatguyUser/TextFeatureSelection) - library for feature selection for text features.
+- [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero [[site](https://texthero.org/)].
 - [textplot](https://github.com/davidmcclure/textplot) - maps of texts with kernel density estimation and force-directed networks. 
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
@@ -59,6 +61,7 @@ List of packages developed with focus on natural language processing.
 - [lsa](https://cran.r-project.org/web/packages/lsa/index.html) - Latent Semantic Analysis.
 - [NLP](https://cran.r-project.org/web/packages/NLP/index.html) - Basic classes and methods for Natural Language Processing.
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
+- [pattern.nlp](https://github.com/bnosac/pattern.nlp) - R package to perform sentiment analysis and Parts of Speech tagging for Dutch/French/English/German/Spanish/Italian.
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
