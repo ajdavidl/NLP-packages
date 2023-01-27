@@ -12,6 +12,7 @@ List of packages developed with focus on natural language processing.
 - [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP).
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences. 
 - [ftfy](https://github.com/rspeer/python-ftfy) - ftfy (fixes text for you) fixes mojibake and other glitches in Unicode text, after the fact [[site](https://ftfy.readthedocs.io/en/latest/)]. 
+- [gluon-nlp](https://github.com/dmlc/gluon-nlp) - A toolkit that helps you solve NLP problems [[site](https://nlp.gluon.ai/)].
 - [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
@@ -35,7 +36,7 @@ List of packages developed with focus on natural language processing.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
-- [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications [[site](https://neuml.github.io/txtai/)].
+- [TextAttack](https://github.com/QData/TextAttack) - a Python framework for adversarial attacks, data augmentation, and model training in NLP [[site](https://textattack.readthedocs.io/en/master/)].
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [[site](https://textacy.readthedocs.io/en/latest/)].
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
 - [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
@@ -46,7 +47,9 @@ List of packages developed with focus on natural language processing.
 - [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
+- [trankit](https://github.com/nlp-uoregon/trankit) - a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing.
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
+- [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications [[site](https://neuml.github.io/txtai/)].
 - [wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages. 
 - [wordseer](https://github.com/Wordseer/wordseer) - text analysis tool, written in Flask [[site](https://wordseer.berkeley.edu/)].
 
