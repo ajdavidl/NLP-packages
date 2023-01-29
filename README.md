@@ -23,6 +23,7 @@ List of packages developed with focus on natural language processing.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
+- [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets [[site](https://parl.ai/)].
 - [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines. 
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. [[wiki](https://github.com/clips/pattern/wiki)].
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit [[site](https://polyglot.readthedocs.io/en/latest/)].
@@ -42,6 +43,7 @@ List of packages developed with focus on natural language processing.
 - [TextBox](https://github.com/RUCAIBox/TextBox) - a text generation library with pre-trained language models.
 - [TextFeatureSelection](https://github.com/StatguyUser/TextFeatureSelection) - library for feature selection for text features.
 - [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero [[site](https://texthero.org/)].
+- [textkit](https://github.com/learntextvis/textkit) - Command line tool for manipulating and analyzing text [[site](http://learntextvis.github.io/textkit/)].
 - [textplot](https://github.com/davidmcclure/textplot) - maps of texts with kernel density estimation and force-directed networks. 
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
