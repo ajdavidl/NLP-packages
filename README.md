@@ -6,6 +6,7 @@ List of packages developed with focus on natural language processing.
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2 [[site](https://docs.aitextgen.io/)]. 
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch [[site](https://allenai.org/allennlp)]. 
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
+- [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers.
 - [ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models [[site](https://ecco.readthedocs.io/en/main/)]. 
@@ -20,6 +21,7 @@ List of packages developed with focus on natural language processing.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
+- [news-graph](https://github.com/BrambleXu/news-graph) - Key information extraction from text and graph visualization.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
@@ -44,6 +46,7 @@ List of packages developed with focus on natural language processing.
 - [TextFeatureSelection](https://github.com/StatguyUser/TextFeatureSelection) - library for feature selection for text features.
 - [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero [[site](https://texthero.org/)].
 - [textkit](https://github.com/learntextvis/textkit) - Command line tool for manipulating and analyzing text [[site](http://learntextvis.github.io/textkit/)].
+- [textnets](https://github.com/jboynyc/textnets) - Text analysis with networks [[site](https://textnets.readthedocs.io/en/stable/)]. 
 - [textplot](https://github.com/davidmcclure/textplot) - maps of texts with kernel density estimation and force-directed networks. 
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
