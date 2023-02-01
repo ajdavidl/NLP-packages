@@ -112,3 +112,5 @@ List of packages developed with focus on natural language processing.
 - [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node.
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 - [wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more [[site](https://winkjs.org/wink-nlp-utils/)]. 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.NLP-packages)
