@@ -62,10 +62,12 @@ List of packages developed with focus on natural language processing.
 
 - [BTM](https://github.com/bnosac/BTM) - Biterm Topic Models for Short Text [[cran](https://cran.r-project.org/web/packages/BTM/index.html)].
 - [cleanNLP](https://github.com/statsmaths/cleanNLP) - Package providing annotators and a normalized data model for natural language processing [[cran](https://cran.r-project.org/web/packages/cleanNLP/index.html)].
+- [corporaexplorer](https://github.com/kgjerde/corporaexplorer) - An R package for dynamic exploration of text collections  [[cran](https://cran.r-project.org/web/packages/corporaexplorer/index.html)], [[site](https://kgjerde.github.io/corporaexplorer/)].
 - [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
 - [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
 - [languageR](https://cran.r-project.org/web/packages/languageR/index.html) - Analyzing Linguistic Data.
 - [lda](https://cran.r-project.org/web/packages/lda/index.html) - Collapsed Gibbs Sampling Methods for Topic Models.
+- [ldatuning](https://github.com/nikita-moor/ldatuning) - LDA models parameters tuning [[cran](https://cran.r-project.org/web/packages/ldatuning/)].
 - [lsa](https://cran.r-project.org/web/packages/lsa/index.html) - Latent Semantic Analysis.
 - [NLP](https://cran.r-project.org/web/packages/NLP/index.html) - Basic classes and methods for Natural Language Processing.
 - [openNLP](https://cran.r-project.org/web/packages/openNLP/index.html) - An interface to the Apache OpenNLP tools.
@@ -76,6 +78,7 @@ List of packages developed with focus on natural language processing.
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
 - [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)].
 - [stm](https://github.com/bstewart/stm) - Estimation of the Structural Topic Model [[cran](https://cran.r-project.org/web/packages/stm/index.html)], [[site](http://www.structuraltopicmodel.com/)].
+- [stopwords](https://github.com/quanteda/stopwords) - Multilingual Stopword Lists in R [[cran](https://cran.r-project.org/web/packages/stopwords/)], [[site](http://stopwords.quanteda.io/)].
 - [stringi](https://github.com/gagolews/stringi) - Fast and portable character string processing in R (with the Unicode ICU) [[cran](https://cran.r-project.org/web/packages/stringi/index.html)], [[site](https://stringi.gagolewski.com/)].
 - [stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R  [[cran](https://cran.r-project.org/web/packages/stringr/index.html)], [[site](https://stringr.tidyverse.org/)].
 - [tau](https://cran.r-project.org/web/packages/tau/index.html) - Text Analysis Utilities.
