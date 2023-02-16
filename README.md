@@ -7,6 +7,7 @@ List of packages developed with focus on natural language processing.
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch [[site](https://allenai.org/allennlp)]. 
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
 - [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
+- [conTEXT-explorer](https://github.com/alicia-ziying-yang/conTEXT-explorer) - open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents. 
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers.
 - [ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models [[site](https://ecco.readthedocs.io/en/main/)]. 
@@ -20,6 +21,7 @@ List of packages developed with focus on natural language processing.
 - [interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
+- [multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
 - [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
 - [news-graph](https://github.com/BrambleXu/news-graph) - Key information extraction from text and graph visualization.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
@@ -57,6 +59,7 @@ List of packages developed with focus on natural language processing.
 - [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications [[site](https://neuml.github.io/txtai/)].
 - [wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages. 
 - [wordseer](https://github.com/Wordseer/wordseer) - text analysis tool, written in Flask [[site](https://wordseer.berkeley.edu/)].
+- [wordtree](https://github.com/willcrichton/wordtree) - A Python library for generating word tree diagrams.
 
 ## R
 
