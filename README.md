@@ -18,7 +18,9 @@ List of packages developed with focus on natural language processing.
 - [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
+- [haystack](https://github.com/deepset-ai/haystack) - framework to interact with your data using Transformer models and LLMs [[site](https://haystack.deepset.ai/)].
 - [interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
+- [intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse [[site](https://lab-apps.s3-us-west-2.amazonaws.com/intertext/redesign/index.html)].
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
