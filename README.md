@@ -28,6 +28,7 @@ List of packages developed with focus on natural language processing.
 - [news-graph](https://github.com/BrambleXu/news-graph) - Key information extraction from text and graph visualization.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
+- [nlpnet](https://github.com/erickrf/nlpnet) - A neural network architecture for NLP tasks, using cython for fast performance. Currently, it can perform POS tagging, SRL and dependency parsing.
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets [[site](https://parl.ai/)].
 - [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines. 
@@ -60,6 +61,7 @@ List of packages developed with focus on natural language processing.
 - [trankit](https://github.com/nlp-uoregon/trankit) - a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing.
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
 - [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications [[site](https://neuml.github.io/txtai/)].
+- [verbecc](https://github.com/bretttolbert/verbecc) - Complete Conjugation of any Verb using Machine Learning for French, Spanish, Portuguese, Italian and Romanian.
 - [wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages. 
 - [wordseer](https://github.com/Wordseer/wordseer) - text analysis tool, written in Flask [[site](https://wordseer.berkeley.edu/)].
 - [wordtree](https://github.com/willcrichton/wordtree) - A Python library for generating word tree diagrams.
