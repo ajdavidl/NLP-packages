@@ -82,6 +82,7 @@ List of packages developed with focus on natural language processing.
 - [pattern.nlp](https://github.com/bnosac/pattern.nlp) - R package to perform sentiment analysis and Parts of Speech tagging for Dutch/French/English/German/Spanish/Italian.
 - [quanteda](https://github.com/quanteda/quanteda) - package for the Quantitative Analysis of Textual Data [[cran](https://cloud.r-project.org/web/packages/quanteda/index.html)], [[site](https://quanteda.io/)].
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
+- [r-corpus](https://github.com/leslie-huang/r-corpus) - Text corpus analysis in R [[cran](https://cran.r-project.org/web/packages/corpus/index.html)].
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
 - [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)].
