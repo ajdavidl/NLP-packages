@@ -29,6 +29,7 @@ List of packages developed with focus on natural language processing.
 - [news-graph](https://github.com/BrambleXu/news-graph) - Key information extraction from text and graph visualization.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
+- [nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP.
 - [nlpnet](https://github.com/erickrf/nlpnet) - A neural network architecture for NLP tasks, using cython for fast performance. Currently, it can perform POS tagging, SRL and dependency parsing.
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets [[site](https://parl.ai/)].
