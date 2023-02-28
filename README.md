@@ -47,6 +47,7 @@ List of packages developed with focus on natural language processing.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
+- [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.
 - [TextAttack](https://github.com/QData/TextAttack) - a Python framework for adversarial attacks, data augmentation, and model training in NLP [[site](https://textattack.readthedocs.io/en/master/)].
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [[site](https://textacy.readthedocs.io/en/latest/)].
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more [[site](https://textblob.readthedocs.io/en/dev/)]. 
