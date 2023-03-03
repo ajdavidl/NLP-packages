@@ -39,6 +39,7 @@ List of packages developed with focus on natural language processing.
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
 - [PySS3](https://github.com/sergioburdisso/pyss3) - A Python package implementing a new interpretable machine learning model for text classification (with visualization tools for Explainable AI) [[site](https://pyss3.readthedocs.io/en/latest/)].
+- [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing [[site](https://pytorchnlp.readthedocs.io/en/latest/)].
 - [pywsd](https://github.com/alvations/pywsd) - Implementations of Word Sense Disambiguation (WSD) Technologies. 
 - [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations [[site](https://rasa.com/docs/rasa/)].
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
