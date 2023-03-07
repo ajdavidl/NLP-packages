@@ -61,6 +61,7 @@ List of packages developed with focus on natural language processing.
 - [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles. 
 - [text2text](https://github.com/artitw/text2text) - Crosslingual NLP/G toolkit.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python package of Tomoto, the Topic Modeling Tool [[site](https://bab2min.github.io/tomotopy/)].
+- [topic modelling tools](https://github.com/alan-turing-institute/topic-modelling-tools) - Topic Modelling with Latent Dirichlet Allocation using Gibbs sampling.
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP [[site](https://pytorch.org/text)].
 - [trankit](https://github.com/nlp-uoregon/trankit) - a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing.
 - [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX [[site](https://huggingface.co/docs/transformers/index)]. 
