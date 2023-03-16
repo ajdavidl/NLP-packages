@@ -100,6 +100,7 @@ List of packages developed with focus on natural language processing.
 - [Text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R [[cran](https://cran.r-project.org/web/packages/text2vec/)], [[site](http://text2vec.org/)].
 - [textnets](https://github.com/cbail/textnets/) - R package to perform automated text analysis using network techniques.
 - [textplot](https://github.com/bnosac/textplot) - unctionalities to easily visualise complex relations in texts [[cran](https://cran.r-project.org/web/packages/textplot/index.html)].
+- [textplot](https://github.com/trinker/textplot) - Plotting for text data.
 - [textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity [[cran](https://cran.r-project.org/web/packages/textreuse/index.html)], [[site](https://docs.ropensci.org/textreuse/)].
 - [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools [[cran](https://cran.r-project.org/web/packages/tidytext/index.html)], [[site](https://juliasilge.github.io/tidytext/)].
 - [tm](https://cran.r-project.org/web/packages/tm/index.html) - A framework for text mining applications within R.
