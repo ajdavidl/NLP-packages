@@ -47,6 +47,7 @@ List of packages developed with focus on natural language processing.
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
+- [spacy-stanza](https://github.com/explosion/spacy-stanza) - Use the latest Stanza (StanfordNLP) research models directly in spaCy.
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing [[site](https://nlp.johnsnowlabs.com/)].
 - [Stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages [[site](https://stanfordnlp.github.io/stanza/)].
 - [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.
