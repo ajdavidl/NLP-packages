@@ -90,6 +90,7 @@ List of packages developed with focus on natural language processing.
 - [quanteda](https://github.com/quanteda/quanteda) - package for the Quantitative Analysis of Textual Data [[cran](https://cloud.r-project.org/web/packages/quanteda/index.html)], [[site](https://quanteda.io/)].
 - [RKEA](https://cran.r-project.org/web/packages/RKEA/index.html) - interface to KEA (Keyphrase Extraction Algorithm).
 - [r-corpus](https://github.com/leslie-huang/r-corpus) - Text corpus analysis in R [[cran](https://cran.r-project.org/web/packages/corpus/index.html)].
+- [RMallet](https://github.com/mimno/RMallet) - An R Wrapper for the Java Mallet Topic Modeling Toolkit [[cran](https://cran.r-project.org/web/packages/mallet/index.html)].
 - [sentencepiece](https://github.com/bnosac/sentencepiece) - R package for Byte Pair Encoding / Unigram modelling based on Sentencepiece [[cran](https://cran.r-project.org/web/packages/sentencepiece/index.html)].
 - [SnowballC](https://cran.r-project.org/web/packages/SnowballC/index.html) - Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library.
 - [spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP [[cran](https://cran.r-project.org/web/packages/spacyr/index.html)], [[site](http://spacyr.quanteda.io/)].
@@ -111,6 +112,7 @@ List of packages developed with focus on natural language processing.
 - [udpipe](https://github.com/bnosac/udpipe) - package for Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing Based on the UDPipe Natural Language Processing Toolkit [[cran](https://cran.r-project.org/web/packages/udpipe/index.html)], [[site](https://bnosac.github.io/udpipe/en/index.html)].
 - [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html) - Functionality to create pretty word clouds, visualize differences and similarity between documents, and avoid over-plotting in scatter plots with text.
 - [wordnet](https://cran.r-project.org/web/packages/wordnet/index.html) - WordNet Interface.
+- [wordVectors](https://github.com/bmschmidt/wordVectors) - package for building and exploring word embedding models.
 - [zipfR](https://cran.r-project.org/web/packages/zipfR/index.html) - Statistical Models for Word Frequency Distributions [[site](https://zipfr.r-forge.r-project.org/)].
 
 ## Julia
@@ -133,5 +135,9 @@ List of packages developed with focus on natural language processing.
 - [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node.
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 - [wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more [[site](https://winkjs.org/wink-nlp-utils/)]. 
+
+## Java
+
+- [Mallet](https://github.com/mimno/Mallet) - package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text [[site](https://mimno.github.io/Mallet/)]. 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.NLP-packages)
