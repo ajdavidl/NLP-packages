@@ -78,6 +78,7 @@ List of packages developed with focus on natural language processing.
 - [BTM](https://github.com/bnosac/BTM) - Biterm Topic Models for Short Text [[cran](https://cran.r-project.org/web/packages/BTM/index.html)].
 - [cleanNLP](https://github.com/statsmaths/cleanNLP) - Package providing annotators and a normalized data model for natural language processing [[cran](https://cran.r-project.org/web/packages/cleanNLP/index.html)].
 - [corporaexplorer](https://github.com/kgjerde/corporaexplorer) - An R package for dynamic exploration of text collections  [[cran](https://cran.r-project.org/web/packages/corporaexplorer/index.html)], [[site](https://kgjerde.github.io/corporaexplorer/)].
+- [dfrtopics](https://github.com/agoldst/dfrtopics) - package for exploring topic models of text.
 - [koRpus](https://github.com/unDocUMeantIt/koRpus) - An R Package for Text Analysis [[cran](https://cran.r-project.org/web/packages/koRpus/index.html)].
 - [hunspell](https://github.com/ropensci/hunspell) - High-Performance Stemmer, Tokenizer, and Spell Checker for R [[cran](https://cran.r-project.org/web/packages/hunspell/index.html)], [[site](https://docs.ropensci.org/hunspell/)].
 - [languageR](https://cran.r-project.org/web/packages/languageR/index.html) - Analyzing Linguistic Data.
