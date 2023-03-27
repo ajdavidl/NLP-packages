@@ -43,6 +43,7 @@ List of packages developed with focus on natural language processing.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing [[site](https://pytorchnlp.readthedocs.io/en/latest/)].
 - [pywsd](https://github.com/alvations/pywsd) - Implementations of Word Sense Disambiguation (WSD) Technologies. 
 - [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations [[site](https://rasa.com/docs/rasa/)].
+- [rosetta](https://github.com/columbia-applied-data-science/rosetta) -  Tools and wrappers for data science with a concentration on text processing.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
