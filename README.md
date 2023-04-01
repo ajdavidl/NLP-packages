@@ -8,6 +8,7 @@ List of packages developed with focus on natural language processing.
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - a machine learning, conversational dialog engine for creating chat bots [[site](https://chatterbot.readthedocs.io/en/stable/)].
 - [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible [[site](https://colossalai.org/)]
 - [conTEXT-explorer](https://github.com/alicia-ziying-yang/conTEXT-explorer) - open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents. 
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers.
