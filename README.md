@@ -6,6 +6,7 @@ List of packages developed with focus on natural language processing.
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2 [[site](https://docs.aitextgen.io/)]. 
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch [[site](https://allenai.org/allennlp)]. 
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics [[site](https://maartengr.github.io/BERTopic/)].
+- [BigARTM](https://github.com/bigartm/bigartm) - Fast topic modeling platform [[site](http://bigartm.org/)].
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - a machine learning, conversational dialog engine for creating chat bots [[site](https://chatterbot.readthedocs.io/en/stable/)].
 - [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible [[site](https://colossalai.org/)]
