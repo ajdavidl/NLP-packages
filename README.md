@@ -9,6 +9,7 @@ List of packages developed with focus on natural language processing.
 - [BigARTM](https://github.com/bigartm/bigartm) - Fast topic modeling platform [[site](http://bigartm.org/)].
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - a machine learning, conversational dialog engine for creating chat bots [[site](https://chatterbot.readthedocs.io/en/stable/)].
 - [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
+- [cltk](https://github.com/cltk/cltk) - The Classical Language Toolkit [[site](http://cltk.org/)].
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible [[site](https://colossalai.org/)]
 - [conTEXT-explorer](https://github.com/alicia-ziying-yang/conTEXT-explorer) - open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents. 
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
