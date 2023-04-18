@@ -36,6 +36,7 @@ List of packages developed with focus on natural language processing.
 - [nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP.
 - [nlpnet](https://github.com/erickrf/nlpnet) - A neural network architecture for NLP tasks, using cython for fast performance. Currently, it can perform POS tagging, SRL and dependency parsing.
 - [nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems [[site](https://nlu.johnsnowlabs.com/)]. 
+- [OpenKiwi](https://github.com/Unbabel/OpenKiwi) - Open-Source Machine Translation Quality Estimation in PyTorch [[site](https://unbabel.github.io/OpenKiwi/)].
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets [[site](https://parl.ai/)].
 - [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines. 
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. [[wiki](https://github.com/clips/pattern/wiki)].
@@ -48,6 +49,7 @@ List of packages developed with focus on natural language processing.
 - [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations [[site](https://rasa.com/docs/rasa/)].
 - [rosetta](https://github.com/columbia-applied-data-science/rosetta) -  Tools and wrappers for data science with a concentration on text processing.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
+- [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [[site](https://explosion.ai/blog/sense2vec-reloaded)].
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
