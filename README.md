@@ -21,6 +21,7 @@ List of packages developed with focus on natural language processing.
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - A toolkit that helps you solve NLP problems [[site](https://nlp.gluon.ai/)].
 - [Gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans [[site](https://radimrehurek.com/gensim)].
 - [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text.
+- [HanLP](https://github.com/hankcs/HanLP) - The multilingual NLP library for researchers and companies, built on PyTorch and TensorFlow 2.x, for advancing state-of-the-art deep learning techniques in both academia and industry. [[site](https://hanlp.hankcs.com/en/)]
 - [haystack](https://github.com/deepset-ai/haystack) - framework to interact with your data using Transformer models and LLMs [[site](https://haystack.deepset.ai/)].
 - [interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 - [intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse [[site](https://lab-apps.s3-us-west-2.amazonaws.com/intertext/redesign/index.html)].
