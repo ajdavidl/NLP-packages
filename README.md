@@ -11,7 +11,8 @@ List of packages developed with focus on natural language processing.
 - [clean-text](https://github.com/jfilter/clean-text) - package for text cleaning.
 - [cltk](https://github.com/cltk/cltk) - The Classical Language Toolkit [[site](http://cltk.org/)].
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible [[site](https://colossalai.org/)]
-- [conTEXT-explorer](https://github.com/alicia-ziying-yang/conTEXT-explorer) - open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents. 
+- [conTEXT-explorer](https://github.com/alicia-ziying-yang/conTEXT-explorer) - open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents.
+- [contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models) - package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics.
 - [DeText](https://github.com/linkedin/detext) - A Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
 - [dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers.
 - [ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models [[site](https://ecco.readthedocs.io/en/main/)]. 
