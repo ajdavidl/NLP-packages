@@ -53,6 +53,8 @@ List of packages developed with focus on natural language processing.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types. 
 - [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [[site](https://explosion.ai/blog/sense2vec-reloaded)].
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [[site](https://www.sbert.net/)].
+- [sentencepiece](
+https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [small-text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python. [[site](https://spacy.io/)].
 - [spacy-stanza](https://github.com/explosion/spacy-stanza) - Use the latest Stanza (StanfordNLP) research models directly in spaCy.
