@@ -29,6 +29,7 @@ List of packages developed with focus on natural language processing.
 - [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [ktrain](https://github.com/amaiya/ktrain) - library that makes deep learning and AI more accessible and easier to apply.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
+- [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
 - [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
