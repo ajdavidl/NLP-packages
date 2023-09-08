@@ -28,6 +28,8 @@ List of packages developed with focus on natural language processing.
 - [intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse [[site](https://lab-apps.s3-us-west-2.amazonaws.com/intertext/redesign/index.html)].
 - [jury](https://github.com/obss/jury) - Comprehensive NLP Evaluation System.
 - [ktrain](https://github.com/amaiya/ktrain) - library that makes deep learning and AI more accessible and easier to apply.
+- [langchain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+- [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization.
 - [multi_rake](https://github.com/vgrabovets/multi_rake) - Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python.
