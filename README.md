@@ -49,8 +49,9 @@ List of packages developed with focus on natural language processing.
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit [[site](https://polyglot.readthedocs.io/en/latest/)].
 - [pyhunspell](https://github.com/pyhunspell/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
 - [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library.
-- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms for phrase extraction [[site](https://derwen.ai/docs/ptr/)].
+- [pysentimiento](https://github.com/pysentimiento/pysentimiento) - Multilingual toolkit for Sentiment Analysis and Social NLP tasks.
 - [PySS3](https://github.com/sergioburdisso/pyss3) - A Python package implementing a new interpretable machine learning model for text classification (with visualization tools for Explainable AI) [[site](https://pyss3.readthedocs.io/en/latest/)].
+- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms for phrase extraction [[site](https://derwen.ai/docs/ptr/)].
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing [[site](https://pytorchnlp.readthedocs.io/en/latest/)].
 - [pywsd](https://github.com/alvations/pywsd) - Implementations of Word Sense Disambiguation (WSD) Technologies. 
 - [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations [[site](https://rasa.com/docs/rasa/)].
