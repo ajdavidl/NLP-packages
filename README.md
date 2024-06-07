@@ -160,5 +160,10 @@ https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neura
 - [Mallet](https://github.com/mimno/Mallet) - package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text [[site](https://mimno.github.io/Mallet/)]. 
 - [OpenNLP](https://github.com/apache/opennlp) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [[site](https://opennlp.apache.org/)].
 
+## Go
+
+- [NLP awesome Go list](https://awesome-go.com/natural-language-processing/).
+
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.NLP-packages)
