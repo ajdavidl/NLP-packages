@@ -36,6 +36,7 @@ List of packages developed with focus on natural language processing.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
 - [neattext](https://github.com/Jcharis/neattext) - a simple NLP package for cleaning textual data and text preprocessing.
+- [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit.
 - [news-graph](https://github.com/BrambleXu/news-graph) - Key information extraction from text and graph visualization.
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit [[site](https://www.nltk.org/)].
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) - Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing [[site](https://opensource.adobe.com/NLP-Cube/index.html)].
