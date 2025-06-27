@@ -32,6 +32,7 @@ List of packages developed with focus on natural language processing.
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp.
 - [lexical_diversity](https://github.com/kristopherkyle/lexical_diversity) - package for calculating a variety of lexical diversity indices.
 - [lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization.
+- [lingua-py](https://github.com/pemistahl/lingua-py) - Natural language detection library for Python.
 - [multi_rake](https://github.com/vgrabovets/multi_rake) - Multilingual Rapid Automatic Keyword Extraction (RAKE) for Python.
 - [Multilingual Latent Dirichlet Allocation](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA) - A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.
 - [multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
@@ -151,6 +152,7 @@ https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neura
 ## JavaScript
 
 - [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing [[site](https://compromise.cool/)].
+- [lingua-js](https://github.com/pemistahl/lingua-js) - Natural language detection library for JavaScript.
 - [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node.
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 - [wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more [[site](https://winkjs.org/wink-nlp-utils/)]. 
@@ -164,6 +166,11 @@ https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neura
 ## Go
 
 - [NLP awesome Go list](https://awesome-go.com/natural-language-processing/).
+- [NLP awesome Go list 2](https://github.com/avelino/awesome-go?tab=readme-ov-file#natural-language-processing).
+
+## Rust
+
+- [lingua-rs](https://github.com/pemistahl/lingua-rs) - Natural language detection library for Rust.
 
 <br>
 
